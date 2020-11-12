@@ -1,4 +1,4 @@
 # Class introduction. 
 
-covers 
-- the basic usage of class.
+See `main.ipynb`. 
+There are explanations and questions of class.
